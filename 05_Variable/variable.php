@@ -39,7 +39,7 @@ di dalam fungsi tersebut. Seperti contoh di bawah: -->
   
   function namepegawai(){
   
-  	$name = "KURNIAWAN XI RPL";
+  	$name = "KURNIAWAN rpl";
   	echo $name; // Menampilkan nilai dari variabel local "Mandan Koding"
   
   }
